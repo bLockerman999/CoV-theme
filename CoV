@@ -17,7 +17,7 @@
   --success-color: #011888;
   --danger-color: #BB0000;
   --url-color: #00FFFF;
-  --background-image: url('https://clearvision.github.io/images/sapphire.jpg');
+  --background-image: url('https://i.ytimg.com/vi/bJPgQlqkQxI/maxresdefault.jpg');
   --background-shading: 100%;
   --background-position: center;
   --background-size: cover;
@@ -30,7 +30,7 @@
   --background-invert: 0%;
   --background-blur: 0px;
   --background-overlay: rgba(0,0,0,0.6);
-  --user-popout-image: url('https://clearvision.github.io/images/sapphire.jpg');
+  --user-popout-image: url('https://i.ytimg.com/vi/bJPgQlqkQxI/maxresdefault.jpg');
   --user-popout-position: center;
   --user-popout-size: cover;
   --user-popout-repeat: no-repeat;
@@ -41,7 +41,7 @@
   --user-popout-grayscale: 0%;
   --user-popout-invert: 0%;
   --user-popout-blur: 3px;
-  --user-modal-image: url('https://clearvision.github.io/images/sapphire.jpg');
+  --user-modal-image: url('https://i.ytimg.com/vi/bJPgQlqkQxI/maxresdefault.jpg');
   --user-modal-position: center;
   --user-modal-size: cover;
   --user-modal-repeat: no-repeat;
