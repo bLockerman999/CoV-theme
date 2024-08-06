@@ -8,7 +8,7 @@
  * @BDEditor CoV theme
 */
 
-@import url('https://github.com/bLockerman999/CoV-theme/blob/main/CoV');
+@import url('https://bLockerman999.github.io/CoV-theme/blob/main/CoV');
 
 :root {
   --main-color: #673AB7;
