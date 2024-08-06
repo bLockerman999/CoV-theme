@@ -1,15 +1,14 @@
 /**
  * @name CoV discord theme 
- * @author ClearVision Team
+ * @author bLockerman999
  * @version 6.9.0
- * @description Highly customizable and beautiful theme for BetterDiscord.
- * @source https://github.com/ClearVision/ClearVision-v6
- * @website https://clearvision.github.io
+ * @description Citadel of Void background for discord.
+ * @source https://github.com/bLockerman999/CoV-theme/blob/main/CoV
  * @invite dHaSxn3
- * @BDEditor Clear Vision
+ * @BDEditor CoV theme
 */
 
-@import url('https://clearvision.github.io/ClearVision-v6/main.css');
+@import url('https://github.com/bLockerman999/CoV-theme/blob/main/CoV');
 
 :root {
   --main-color: #673AB7;
